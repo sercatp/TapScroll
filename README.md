@@ -2,4 +2,4 @@
 
 Allows to scroll any app on Windows in a smartphone-style by pressing Middle Mouse Button and dragging the page.
 
-This program sends to application the scroll command according to the speed you move the mouse when Middle Mouse Button is pressed.
+This program sends to active application the scroll command according to the speed you move the mouse when Middle Mouse Button is pressed.
